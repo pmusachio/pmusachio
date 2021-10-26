@@ -13,7 +13,7 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 
 ## Data Analysis - Insight Projects
 ### [House Rocket Company]( https://github.com/pmusachio/House-Rocket-Company )
-Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
+Recommendation of business solutions through Insights generated with Exploratory Data Analysis, which can be accessed from any mobile device.
 
 ## Data Engineering - ETL Projects
 
