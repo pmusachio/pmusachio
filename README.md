@@ -17,11 +17,11 @@ Sales forecast project for a chain of stores, with the model in production on He
 
 ## Data Analysis - Insight Projects
 ### [House Rocket Project]( https://github.com/pmusachio/House-Rocket-Project )
-Recommendation of business solutions through Insights generated with Exploratory Data Analysis
+Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
 
 ## Nerd Musician - MIDI Projects
 ### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
-Development of an electronic drum with Arduino to control virtual instruments
+Development of an electronic drum with Arduino to control virtual instruments.
 
 <!---
 pmusachio/pmusachio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
