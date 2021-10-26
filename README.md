@@ -17,7 +17,7 @@ Sales forecast project for a chain of stores, with the model in production on He
 
 ## Data Analysis - Insight Projects
 ### [House Rocket Project]( https://github.com/pmusachio/House-Rocket-Project )
-The House Rocket company wants to find good deals in order to maximize their profits. Weekly meetings are held where the CEO raises questions that must be answered by the data science team.
+Recommendation of business solutions through Insights generated with Exploratory Data Analysis
 
 ## Nerd Musician - MIDI Projects
 ### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
