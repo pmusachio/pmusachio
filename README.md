@@ -27,7 +27,7 @@ Sales forecast project for a chain of stores, with the model in production on He
 
 ## Nerd Musician - MIDI Projects
 ### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
-Development of an electronic drum with Arduino to control virtual instruments
+Development of an electronic drum with Arduino to control virtual instruments.
 <!---
 pmusachio/pmusachio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
