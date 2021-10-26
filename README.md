@@ -15,7 +15,7 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 ### [Rossmann Regression Predict]( https://gitlab.com/datascience-community/p )
 Sales forecast project for a chain of stores, with the model in production on Heroku to access the results on Telegram.
 
-## Data Anaysis - Insight Projects
+## Data Analysis - Insight Projects
 ### [House Rocket Project]( https://gitlab.com/datascience-community/p )
 The House Rocket company wants to find good deals in order to maximize their profits. Weekly meetings are held where the CEO raises questions that must be answered by the data science team.
 
