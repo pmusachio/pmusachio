@@ -12,15 +12,15 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
 
 ## Data Science Projects
-### [Rossmann Regression Predict]( https://gitlab.com/datascience-community/p )
+### [Rossmann Regression Predict]( https://github.com/pmusachio/Rossmann-Regression-Predict )
 Sales forecast project for a chain of stores, with the model in production on Heroku to access the results on Telegram.
 
 ## Data Analysis - Insight Projects
-### [House Rocket Project]( https://gitlab.com/datascience-community/p )
+### [House Rocket Project]( https://github.com/pmusachio/House-Rocket-Project )
 The House Rocket company wants to find good deals in order to maximize their profits. Weekly meetings are held where the CEO raises questions that must be answered by the data science team.
 
 ## Nerd Musician - MIDI Projects
-### [Electronic Drum]( https://gitlab.com/datascience-community/p )
+### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
 Development of an electronic drum with Arduino to control virtual instruments
 
 <!---
