@@ -6,7 +6,7 @@ I'm a Data Scientist in training at the **Comunidade DS** and I'm graduating Big
  
 I like dynamic environments and I adapt quickly to changes, I have 13 years of experience in the Automotive Industry, and of these, 9 as a Process and Quality Analyst developing projects focused on continuous improvement exploring data, investigating and validating hypotheses, **creating simple and creative solutions to large problems**.
 
-During leisure, I am a hobbyist musician and develop IoT projects by building my own equipment, at the moment I have fun developing an electronic drum with Arduino to control virtual instruments!
+During free time, I am a hobbyist musician and develop IoT projects by building my own equipment, at the moment I have fun developing an electronic drum with Arduino to control virtual instruments!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-musachio-30a56b144)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
