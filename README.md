@@ -11,21 +11,14 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-musachio-30a56b144)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
 
-## Data Analysis - Insight Projects
+## Data Science Projects
 ### [House Rocket Company]( https://github.com/pmusachio/House-Rocket-Company )
 Recommendation of business solutions through Insights generated with Exploratory Data Analysis, which can be accessed from any mobile device.
 
-## Data Engineering - ETL Projects
-
-## Machine Learning Projects
-
-## End to End Projects
-
-## Data Science Projects
 ### [Rossmann Regression Predict]( https://github.com/pmusachio/Rossmann-Regression-Predict )
 Sales forecast project for a chain of stores, with the model in production on Heroku to access the results on Telegram.
 
-## Nerd Musician - MIDI Projects
+## Nerd Musician Projects
 ### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
 Development of an electronic drum with Arduino to control virtual instruments.
 <!---
