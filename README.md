@@ -15,7 +15,7 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 ### [House Rocket Company]( https://github.com/pmusachio/House-Rocket-Company )
 Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
 
-## Data Engineering - ETL Projets
+## Data Engineering - ETL Projects
 
 ## Machine Learning Projects
 
