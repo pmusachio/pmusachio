@@ -16,10 +16,7 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 Recommendation of business solutions through Insights generated with Exploratory Data Analysis, which can be accessed from any mobile device.
 
 ### [Star Jeans]( https://github.com/pmusachio/Star-Jeans )
-ds ao dev
 
-### [Rossmann Regression Predict]( https://github.com/pmusachio/Rossmann-Regression-Predict )
-Sales forecast project for a chain of stores, with the model in production on Heroku to access the results on Telegram.
 
 ## Nerd Musician Projects
 ### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
