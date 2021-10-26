@@ -11,18 +11,23 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-musachio-30a56b144)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
 
+## Data Analysis - Insight Projects
+### [House Rocket Company]( https://github.com/pmusachio/House-Rocket-Company )
+Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
+
+## Data Engineering Projects
+
+## Machine Learning Projects
+
+## End to End Projects
+
 ## Data Science Projects
 ### [Rossmann Regression Predict]( https://github.com/pmusachio/Rossmann-Regression-Predict )
 Sales forecast project for a chain of stores, with the model in production on Heroku to access the results on Telegram.
 
-## Data Analysis - Insight Projects
-### [House Rocket Project]( https://github.com/pmusachio/House-Rocket-Project )
-Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
-
 ## Nerd Musician - MIDI Projects
 ### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
-Development of an electronic drum with Arduino to control virtual instruments.
-
+Development of an electronic drum with Arduino to control virtual instruments
 <!---
 pmusachio/pmusachio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
