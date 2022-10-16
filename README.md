@@ -10,12 +10,12 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
 
 # Projects
-### [House Rocket]( https://github.com/pmusachio/House-Rocket-Company )
+### [House Rocket]( https://github.com/pmusachio/house_rocket )
 #### Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
 
-### [Star Jeans]( https://github.com/pmusachio/Star-Jeans )
+### [Star Jeans]( https://github.com/pmusachio/star_jeans )
 
-### [Electronic Drum]( https://github.com/pmusachio/Electronic-Drum )
+### [Electronic Drum]( https://github.com/pmusachio/electronic_drum )
 #### Development of an electronic drum with Arduino to control virtual instruments.
 <!---
 pmusachio/pmusachio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
