@@ -6,7 +6,7 @@ Currently I dedicate my studies to DS, and created this portfolio to demonstrate
 
 During free time, I am a hobbyist musician and develop IoT projects by building my own equipment, at the moment I have fun developing an electronic drum with Arduino to control virtual instruments!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://https://www.linkedin.com/in/pmusachio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pmusachio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
 
 # Projects
