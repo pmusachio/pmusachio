@@ -14,9 +14,6 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 #### Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
 
 ### [Star Jeans]( https://github.com/pmusachio/star_jeans )
-
-### [Electronic Drum]( https://github.com/pmusachio/electronic_drum )
-#### Development of an electronic drum with Arduino to control virtual instruments.
 <!---
 pmusachio/pmusachio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
