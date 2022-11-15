@@ -10,10 +10,11 @@ During free time, I am a hobbyist musician and develop IoT projects by building 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
 
 # Projects
+### [Star Jeans]( https://github.com/pmusachio/star_jeans )
+#### Business solutions using Web Scraping to collect data, Regex for cleaning, SQL to create and query table with the collected data and Script with scheduled autorun.
+
 ### [House Rocket]( https://github.com/pmusachio/house_rocket )
 #### Recommendation of business solutions through Insights generated with Exploratory Data Analysis.
-
-### [Star Jeans]( https://github.com/pmusachio/star_jeans )
 <!---
 pmusachio/pmusachio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
