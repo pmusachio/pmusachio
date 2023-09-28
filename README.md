@@ -1,5 +1,3 @@
-# Who I'm?
-
 I am a Data Analyst and I will graduating in Big Data and Analytical Intelligence, work focused on problem solving and prioritize fast delivery to build solutions that improve products and services.
 I believe that my 13 years of experience in the Automotive Industry contribute to innovative ideas and thinking difirent!
 
