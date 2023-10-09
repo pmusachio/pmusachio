@@ -1,6 +1,6 @@
 Hi there!
 
-I am a Business Analyst and I will graduating in Big Data and Analytical Intelligence, work focused on problem solving and prioritize fast delivery to build solutions that improve products and services.
+I am a Business Analyst and I will graduating in Big Data and Analytical Intelligence, work focused on problem solving and prioritize fast delivery to build solutions that improve products and services.     
 I believe that my 13 years of experience in the Automotive Industry contribute to innovative ideas and thinking difirent!
 
 Currently dedicate my studies to Data Science, and I created a portfolio at github.com/pmusachio in order to demonstrate the development of my skills in problem solving using D/S.
