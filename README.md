@@ -1,7 +1,8 @@
 Hi there!
 
-I am a Data Scientist with a degree in Big Data and Analytical Intelligence, work focused on solving problems and prioritizing fast delivery to build solutions that improve products and services.
-I believe that my 13 years of experience in the Automotive Industry contribute to innovative ideas and different thoughts!
+I am a Data Scientist graduated in Big Data and Analytical Intelligence studying graduate course in Statistics, 
+I like to work on problem solving, prioritizing fast deliveries to build solutions that help in decision making and generate profit, 
+I believe that my +10 years of experience in the Automotive Industry contribute to innovative ideas and different thoughts!
 
 I currently dedicate my studies to Data Science | Statistics, and I created this portfolio with the aim of demonstrating the development of my skills.
 
