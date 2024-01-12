@@ -33,7 +33,7 @@ Postgraduate = Statistics                     :active,, 2024-02-01,2024-12-01
 |--------------|------------------|----------|---------|
 | [House Rocket](https://github.com/pmusachio/house_rocket) | Identification of Properties for Purchase and definition of the Resale Price | EDA | Total Profit (sale - purchase) of the Properties in Portfolio will be: **$1,120,337,411.00** |
 | [Rossmann Sales Predction](https://github.com/pmusachio/rossmann_store_sales_prediction) | The CFO needs to plan store renovations, for this the budget needs to be aligned with the sales of each store | Regression | Accumulated Sales of all Stores for the next 6w = **$287,038,880.00** |
-| [Health Insurance Cross-Sell]() |  | Classification |  |
+| [Health Insurance Cross-Sell]() | A Health Insurance company needs to Detect Customers who are most Likely to Purchase Auto Insurance | Classification |  |
 | [INSIDERS Loyalty Program](https://github.com/pmusachio/high_value_customer_identification) | Determine which are the Most Valuable customers to form the "INSIDERS" Loyalty Program, with the aim of Increasing Revenue and Purchase Frequency | Clustering |  |
 
 ## Contacts
