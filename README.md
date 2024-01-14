@@ -1,6 +1,6 @@
 ## Who I'm?
 
-I am a Data Scientist graduated in Big Data and Analytical Intelligence studying graduate course in Statistics, 
+I am a Data Scientist Graduated in Big Data and Analytical Intelligence studying PostGraduate course in Statistics, 
 I like to work on problem solving, prioritizing fast deliveries to build solutions that help in decision making and generate profit, 
 I believe that my +10 years of experience in the Automotive Industry contribute to innovative ideas and different thoughts!
 
