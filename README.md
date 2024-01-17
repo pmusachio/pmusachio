@@ -22,12 +22,12 @@ Postgraduate = Statistics                     :active,, 2024-02-01,2024-12-01
 ## Main Skills Developed on Journey
 | Skill                           | Tool |
 |---------------------------------|------|
-| Planning and Management         | ![CRISP](https://img.shields.io/badge/-CRISP--DM-777BB4) ![SCRUM](https://img.shields.io/badge/-SCRUM-777BB4) ![JIRA](https://img.shields.io/badge/Jira-777BB4?&logo=Jira&logoColor=black) |
-| Programming and Query Languages | ![PYTHON](https://img.shields.io/badge/Python-777BB4?&logo=python&logoColor=black) ![SCALA](https://img.shields.io/badge/Scala-777BB4?&logo=scala&logoColor=black) ![SQL](https://img.shields.io/badge/Sqlite-777BB4?&logo=sqlite&logoColor=black) |
-| Libraries and Frameworks        | ![PANDAS](https://img.shields.io/badge/Pandas-777BB4?&logo=pandas&logoColor=black) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=black) ![SKLEARN](https://img.shields.io/badge/scikit_learn-777BB4?&logo=scikit-learn&logoColor=black) |
+| Planning and Management         | ![CRISP](https://img.shields.io/badge/-CRISP--DM-777BB4?) ![SCRUM](https://img.shields.io/badge/-SCRUM-777BB4?) ![JIRA](https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white) |
+| Programming and Query Languages | ![PYTHON](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue) ![SCALA](https://img.shields.io/badge/Scala-DC322F?&logo=scala&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-07405E?&logo=sqlite&logoColor=white) |
+| Libraries and Frameworks        | ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?&logo=pandas&logoColor=white) ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white) ![SKLEARN](https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn&logoColor=white) |
 | Data Analysis                   | ![EXPLORATION](https://img.shields.io/badge/-Exploration-777BB4?) ![PREDICTIVE](https://img.shields.io/badge/-Predictive--Modeling-777BB4?) ![TIME-SERIES](https://img.shields.io/badge/-Time--Series-777BB4?) |
 | Machine Learning                | ![REGRESSION](https://img.shields.io/badge/-Regression-777BB4?) ![CLASSIFICATION](https://img.shields.io/badge/-Classification-777BB4?) ![CLUSTERING](https://img.shields.io/badge/-Clustering-777BB4?) |
-| DataViz                         | ![MATPLOTLIB](https://img.shields.io/badge/Plotly-777BB4?&logo=plotly&logoColor=black) ![SEABORN](https://img.shields.io/badge/-Seaborn-777BB4?&logo=seaborn&logoColor=black) ![STREAMLIT](https://img.shields.io/badge/Streamlit-777BB4?&logo=Streamlit&logoColor=black) |
+| DataViz                         | ![MATPLOTLIB](https://img.shields.io/badge/Plotly-239120?e&logo=plotly&logoColor=white) ![SEABORN](https://img.shields.io/badge/-Seaborn-777BB4?&) ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&logo=Streamlit&logoColor=white)|
 
 ## Featured Projects to Demonstrate Skills
 | Project Link | Business Problem | Method |
@@ -38,5 +38,5 @@ Postgraduate = Statistics                     :active,, 2024-02-01,2024-12-01
 | [insiders_loyalty_program](https://github.com/pmusachio/high_value_customer_identification) | Determine which are the Most Valuable customers to form the "INSIDERS" Loyalty Program, with the aim of Increasing Revenue and Purchase Frequency | **Clustering** |
 
 ## Contacts
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pmusachio/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pmusachio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
