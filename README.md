@@ -12,7 +12,7 @@ Currently dedicate my studies to Data Science, and I created this portfolio with
 ## Featured Projects
 | Method | Project Link | Description |
 |:------:|--------------|-------------|
-| **EDA** | [House Sales](https://github.com/pmusachio/house_rocket) | Identification of Properties for Purchase and definition of the Resale Price |
-| **Regression** | [Rossmann Sales Predction](https://github.com/pmusachio/rossmann_store_sales_prediction) | The CFO needs to plan store renovations, for this the budget needs to be aligned with the sales of each store |
-| **Classification** | [Health Insurance Cross-Sell]() | A Health Insurance company needs to Detect Customers who are most Likely to Purchase Auto Insurance |
-| **Clustering** | [Insiders Loyalty Program](https://github.com/pmusachio/high_value_customer_identification) | Determine which are the Most Valuable customers to form the "INSIDERS" Loyalty Program, with the aim of Increasing Revenue and Purchase Frequency |
+| **EDA** | [House Sales](https://github.com/pmusachio/house_rocket) | Exploratory analysis for increasing profits of a real estate by identifying the most advantageous properties for purchase and recommending the best moment and value for resale |
+| **Regression** | [Rossmann Sales Predction](https://github.com/pmusachio/rossmann_store_sales_prediction) | Revenue forecast for a pharmaceutical chain's stores over the next 6 weeks, in order to help CFO decide which stores have sufficient budget to carry out reforms in their structure |
+| **Classification** | [Health Insurance Cross-Sell]() | A health insurer needs to predict and rank customers with a greater propensity to purchase "vehicle insurance", helping the commercial team to direct efforts to customers with a greater chance of conversion |
+| **Clustering** | [Insiders Loyalty Program](https://github.com/pmusachio/high_value_customer_identification) | Construction of a loyalty program with customer clustering based on consumption profiles, determining which are the most valuable customers to participate in the “INSIDERS Program", with the aim of increasing purchase frequency and revenue |
