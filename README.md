@@ -1,18 +1,46 @@
-## Who I'm?
+```python
+class DataAnalyst:
+    def __init__(self, name, role):
+        self.name, self.role, self.skills, self.tools, self.experience = name, role, [], [], []
 
-I am a Data Scientist Graduated in Big Data and Analytical Intelligence studying PostGraduate course in Statistics, 
-I like to work on problem solving, prioritizing fast deliveries to build solutions that help in decision making and generate profit, 
-I believe that my +10 years of experience in the Automotive Industry contribute to innovative ideas and different thoughts!
+    def add_skill(self, skill): self.skills += [skill]
+    def add_tool(self, tool): self.tools += [tool]
+    def add_exp(self, experience): self.experience += [experience]
+    def display_output(self):
+        print(f"I'm {self.name}, {self.role}\n\nSkills:\n" + "\n".join(f"- {s}" for s in self.skills)
+                                                           + "\n\nToolset:\n"
+                                                           + "\n".join(f"- {t}" for t in self.tools)
+                                                           + "\n\nProfessional Experience:\n"
+                                                           + "\n".join(f"- {e}" for e in self.experience))
 
-Currently dedicate my studies to Data Science, and I created this portfolio with the aim of demonstrating the development of my skills.
+pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Insights!")
+[pmusachio.add_skill(skill)    for skill in ["Problem Solving", "Structured Thinking", "Exploratory Data Analysis"]]
+[pmusachio.add_tool(tool)      for tool in ["SQL", "Excel", "Looker", "Python", "Statistics"]]
+[pmusachio.add_exp(experience) for experience in ["Business Analyst @NUBANK",
+                                                  "Exploring Data and Solving Problems in Industry for +10 years"]]
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pmusachio/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white&link=mailto:paulomusachio@gmail.com)](mailto:paulomusachio@gmail.com)
+pmusachio.display_output()
+```
 
-## Featured Projects
-| Method | Project Link | Description |
-|:------:|--------------|-------------|
-| **Regression** | [Rossmann Sales Predction](https://github.com/pmusachio/rossmann_store_sales_prediction) | Revenue forecast for a pharmaceutical chain's stores over the next 6 weeks, in order to help CFO decide which stores have sufficient budget to carry out reforms in their structure |
-| **Clustering** | [Insiders Loyalty Program](https://github.com/pmusachio/high_value_customer_identification) | Construction of a loyalty program with customer clustering based on consumption profiles, determining which are the most valuable customers to participate in the “INSIDERS Program", with the aim of increasing purchase frequency and revenue |
-| **Classification** | [Health Insurance Cross-Sell]() | A health insurer needs to predict and rank customers with a greater propensity to purchase "vehicle insurance", helping the commercial team to direct efforts to customers with a greater chance of conversion |
-| **EDA** | [House Sales](https://github.com/pmusachio/house_rocket) | Exploratory analysis for increasing profits of a real estate by identifying the most advantageous properties for purchase and recommending the best moment and value for resale |
+<details>
+  <summary>click to Run Code</summary>
+  <br/>
+  
+  I'm Paulo Musachio, and Turn Data into Insights!
+  
+  Skills:
+  - Problem Solving
+  - Structured Thinking
+  - Exploratory Data Analysis
+  
+  Toolset:
+  - SQL
+  - Excel
+  - Looker
+  - Python
+  - Statistics
+  
+  Profissional Experience:
+  - Business Analyst @NUBANK
+  - Exploring Data and Solving Problems in Industry for +10 years
+</details>
