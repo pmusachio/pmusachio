@@ -23,7 +23,7 @@ pmusachio.display_output()
 ```
 
 <details>
-  <summary>click to Run Code</summary>
+  <summary>RUN Code</summary>
   <br/>
   
   I'm Paulo Musachio, and Turn Data into Insights!
