@@ -21,7 +21,9 @@ pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Insights!")
 
 pmusachio.display_output()
 ```
-
+ <br/>
+  <br/>
+  
 <details>
   <summary>RUN Code</summary>
   <br/>
