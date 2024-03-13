@@ -14,9 +14,9 @@ class DataAnalyst:
                                                            + "\n".join(f"- {e}" for e in self.experience))
 
 pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Insights!")
-[pmusachio.add_skill(skill)    for skill in ["Problem Solving", "Structured Thinking", "Exploratory Data Analysis"]]
-[pmusachio.add_tool(tool)      for tool in ["SQL", "Excel", "Looker", "Python", "Statistics"]]
-[pmusachio.add_exp(experience) for experience in ["Business Analyst @NUBANK",
+[pmusachio.add_skill(skill)    for skill in ["Problem Solving", "Structured Thinking", "Exploratory Data Analysis", "Storytelling"]]
+[pmusachio.add_tool(tool)      for tool in ["Python", "SQL", "Excel", "Statistics", "BI and Data Visualization"]]
+[pmusachio.add_exp(experience) for experience in ["Business Analyst @NUBANK - credit and risk",
                                                   "Exploring Data and Solving Problems in Industry for +10 years"]]
 
 pmusachio.display_output()
@@ -29,20 +29,22 @@ pmusachio.display_output()
   <br/>
   
   I'm Paulo Musachio, and Turn Data into Insights!
-  
+
   Skills:
   - Problem Solving
   - Structured Thinking
   - Exploratory Data Analysis
-  
+  - Storytelling
+
   Toolset:
+  - Python
   - SQL
   - Excel
-  - Looker
-  - Python
   - Statistics
-  
+  - BI and Data Visualization
+
   Profissional Experience:
-  - Business Analyst @NUBANK
+  - Business Analyst @NUBANK - credit and risk
   - Exploring Data and Solving Problems in Industry for +10 years
+
 </details>
