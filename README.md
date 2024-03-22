@@ -48,3 +48,37 @@ pmusachio.display_output()
   - Exploring Data and Solving Problems in Industry for +10 years
 
 </details>
+
+<h1>Main Projects</h1>
+
+<br>
+
+<!-- project06 -->
+<h2 align="center"> renovacao de seguros </h2>
+
+<a href="https://github.com/pmusachio/renovacao_seguros" >
+<img width="199" align="left" src="https://github.com/pmusachio/private/blob/main/img/cover_06b.jpeg" ></a>
+
+A SeguraAí é uma fintech de venda de seguros para pessoas físicas. Empresas de Seguros, assim como qualquer outra, dependem da recorrência de gastos dos seus clientes. Neste projeto de dados vamos entender quais fatores de risco estão associados com a NÃO renovação de seguros além de criar possíveis planos de ação para a empresa de seguros diminuir esse problema.
+
+<br><br><br>
+
+<!-- project05 -->
+<h2 align="center"> controle da inadimplencia em operacoes de credito </h2>
+
+<a href="https://github.com/pmusachio/controle_inadimplencia_emprestimos" >
+<img width="199" align="left" src="https://github.com/pmusachio/private/blob/main/img/cover_05b.jpeg" ></a>
+
+Neste projeto de dados, vamos ajudar uma fintech de Crédito que iniciou sua operação de concessão de empréstimo pessoal e pediu para a área de Análise de Dados verificar quais os fatores de risco dos clientes de forma a conseguir aprovar mais contratos com a menor inadimplência possível.
+
+<br><br><br>
+
+<!-- project04 -->
+<h2 align="center"> calculo do VaR de uma carteira de investimentos </h2>
+
+<a href="https://github.com/pmusachio/previsao_perdas_investimentos" >
+<img width="199" align="left" src="https://github.com/pmusachio/private/blob/main/img/cover_04b.jpeg" ></a>
+
+Neste projeto de dados vamos avaliar o risco de uma carteira de investimentos utilizando as técnicas de probabilidades. Com isso, esperamos responder a pergunta de negócios: O VaR pode ser utilizado como um modelo estatístico para prever as perdas futuras de ativos de uma carteira de investimentos?
+
+<br><br><br>
