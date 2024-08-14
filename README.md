@@ -14,9 +14,11 @@ class DataAnalyst:
                                                            + "\n".join(f"- {e}" for e in self.experience))
 
 pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Insights!")
-[pmusachio.add_skill(skill)    for skill in ["Problem Solving", "Structured Thinking", "Exploratory Data Analysis", "Storytelling"]]
-[pmusachio.add_tool(tool)      for tool in ["Python", "SQL", "Excel", "Statistics", "BI and Dashboard"]]
-[pmusachio.add_exp(experience) for experience in ["Business Analyst @NUBANK - credit and risk",
+[pmusachio.add_skill(skill)    for skill in ["Analytics", "Problem Solving", "Structured Thinking"]]
+[pmusachio.add_tool(tool)      for tool in ["Python", "Statistics", "SQL", "SAS", "Spark", "Hadoop", "AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)"]]
+[pmusachio.add_exp(experience) for experience in ["Data Analyst @ITAÚ BBA - Credit",
+                                                  "Business Analyst @NUBANK - Lending Underserved",
+                                                  "Production Engineer @TOYOTA - Assembly Shop",
                                                   "Exploring Data and Solving Problems in Industry for +10 years"]]
 
 pmusachio.display_output()
@@ -31,20 +33,23 @@ pmusachio.display_output()
   I'm Paulo Musachio, and Turn Data into Insights!
 
   Skills:
+  - Analytics
   - Problem Solving
   - Structured Thinking
-  - Exploratory Data Analysis
-  - Storytelling
 
   Toolset:
   - Python
-  - SQL
-  - Excel
   - Statistics
-  - BI and Dashboard
+  - SQL
+  - SAS
+  - Spark
+  - Hadoop
+  - AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)
 
   Profissional Experience:
-  - Business Analyst @NUBANK - credit and risk
+  - Data Analyst @ITAÚ BBA - Credit
+  - Business Analyst @NUBANK - Lending Underserved
+  - Production Engineer @TOYOTA - Assembly Shop
   - Exploring Data and Solving Problems in Industry for +10 years
 
 </details>
