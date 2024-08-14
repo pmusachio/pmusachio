@@ -15,9 +15,9 @@ class DataAnalyst:
 
 pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Insights!")
 [pmusachio.add_skill(skill)    for skill in ["Analytics", "Problem Solving", "Structured Thinking"]]
-[pmusachio.add_tool(tool)      for tool in ["Python", "Statistics", "SQL", "SAS", "Spark", "Hadoop", "AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)"]]
+[pmusachio.add_tool(tool)      for tool in ["SQL", "SAS", "Spark", "Python", "Hadoop", "Statistics", "AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)"]]
 [pmusachio.add_exp(experience) for experience in ["Data Analyst @ITAÚ BBA - Credit",
-                                                  "Business Analyst @NUBANK - Lending Underserved",
+                                                  "Business Analyst @NUBANK - Lending",
                                                   "Production Engineer @TOYOTA - Assembly Shop",
                                                   "Exploring Data and Solving Problems in Industry for +10 years"]]
 
@@ -38,17 +38,17 @@ pmusachio.display_output()
   - Structured Thinking
 
   Toolset:
-  - Python
-  - Statistics
   - SQL
   - SAS
   - Spark
+  - Python
   - Hadoop
+  - Statistics
   - AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)
 
   Profissional Experience:
   - Data Analyst @ITAÚ BBA - Credit
-  - Business Analyst @NUBANK - Lending Underserved
+  - Business Analyst @NUBANK - Lending
   - Production Engineer @TOYOTA - Assembly Shop
   - Exploring Data and Solving Problems in Industry for +10 years
 
