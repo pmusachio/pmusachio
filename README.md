@@ -13,7 +13,7 @@ class DataAnalyst:
                                                            + "\n\nProfessional Experience:\n"
                                                            + "\n".join(f"- {e}" for e in self.experience))
 
-pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Insights!")
+pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Profit!")
 [pmusachio.add_skill(skill)    for skill in ["Analytics", "Problem Solving", "Structured Thinking"]]
 [pmusachio.add_tool(tool)      for tool in ["SQL", "SAS", "Spark", "Python", "Hadoop", "Statistics", "AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)"]]
 [pmusachio.add_exp(experience) for experience in ["Data Analyst @ITAÚ - Credit",
@@ -30,7 +30,7 @@ pmusachio.display_output()
   <summary>RUN Code</summary>
   <br/>
   
-  I'm Paulo Musachio, and Turn Data into Insights!
+  I'm Paulo Musachio, and Turn Data into Profit!
 
   Skills:
   - Analytics
