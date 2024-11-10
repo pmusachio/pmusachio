@@ -53,3 +53,5 @@ pmusachio.display_output()
   - Exploring Data and Solving Problems in Industry for +10 years
 
 </details>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmusachio&layout=compact&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="pmusachio"/>
