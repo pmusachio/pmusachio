@@ -16,8 +16,8 @@ class DataAnalyst:
 pmusachio = DataAnalyst("Paulo Musachio", "and Turn Data into Profit!")
 [pmusachio.add_skill(skill)    for skill in ["Analytics", "Problem Solving", "Structured Thinking"]]
 [pmusachio.add_tool(tool)      for tool in ["SQL", "SAS", "Spark", "Python", "Hadoop", "Statistics", "AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)"]]
-[pmusachio.add_exp(experience) for experience in ["Data Analyst @ITAÚ - Credit",
-                                                  "Business Analyst @NUBANK - Lending",
+[pmusachio.add_exp(experience) for experience in ["Data Analytics @ITAÚ - Corporate Credit",
+                                                  "Business Analytics @NUBANK - Lending",
                                                   "Production Engineer @TOYOTA - Assembly Shop",
                                                   "Exploring Data and Solving Problems in Industry for +10 years"]]
 
@@ -47,11 +47,9 @@ pmusachio.display_output()
   - AWS (S3, Glue, Athena, Redshift, Quicksight and SageMaker)
 
   Profissional Experience:
-  - Data Analyst @ITAÚ - Credit
-  - Business Analyst @NUBANK - Lending
+  - Data Analytics @ITAÚ - Corporate Credit
+  - Business Analytics @NUBANK - Lending
   - Production Engineer @TOYOTA - Assembly Shop
   - Exploring Data and Solving Problems in Industry for +10 years
 
 </details>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmusachio&layout=compact&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="pmusachio"/>
