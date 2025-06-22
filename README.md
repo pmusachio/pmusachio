@@ -24,7 +24,7 @@
     <h3>Fraud Detection in Financial Transactions</h3>
     <p>Development of a predictive model to identify potential fraudulent transactions, minimizing false positives and negatives, ensuring efficiency in the decision-making process</p>
 </div>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <div>
     <a href="https://github.com/pmusachio/sharpe-sortino-bitcoin" target="_blank">
