@@ -12,6 +12,8 @@ Development of a predictive model to identify potential fraudulent transactions,
 
 <br><br><br><br><br><br><br><br>
 
+## Quantitative Finance
+
 <img src="https://raw.githubusercontent.com/pmusachio/sharpe-sortino-bitcoin/refs/heads/main/img/traces.png" width="250" align="left" style="margin-right: 20px;">
 <a href="https://github.com/pmusachio/sharpe-sortino-bitcoin" target="_blank">Sharpe vs Sortino W/ Bitcoin</a>
 <br>
