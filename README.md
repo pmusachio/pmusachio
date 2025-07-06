@@ -12,7 +12,7 @@ Development of a predictive model to identify potential fraudulent transactions,
 
 <br><br><br><br><br><br><br><br>
 
-## Quantitative Finance
+## Financial Analysis
 
 <img src="https://raw.githubusercontent.com/pmusachio/sharpe-sortino-bitcoin/refs/heads/main/img/traces.png" width="250" align="left" style="margin-right: 20px;">
 <a href="https://github.com/pmusachio/sharpe-sortino-bitcoin" target="_blank">Sharpe vs Sortino W/ Bitcoin</a>
@@ -27,6 +27,22 @@ Analyze and compare the performance of Sharpe and Sortino Ratio using Bitcoin da
 Automation to extract and update the list of BDRs traded on B3, with web scraping from InvestNews and ingestion of historical prices via Yahoo Finance. Generates a dataset ready for analysis, with tickers, sectors and quotes
 
 <br><br><br>
+
+## Trading and Backtesting
+
+<br>
+
+## Webscraping and Data
+
+<br>
+
+## Data and Automation
+
+<br>
+
+## DataViz and Dashboards
+
+<br>
 
 ## Get in touch
 
