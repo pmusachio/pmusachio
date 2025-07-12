@@ -5,6 +5,10 @@ Data Scientist | Financial Modeling
 
 ## Main Projects
 
+<br>
+
+## Fraud Detection
+
 <img src="https://raw.githubusercontent.com/pmusachio/fraud-detection-financial-transactions/refs/heads/main/img/final-result.png?token=GHSAT0AAAAAADBYGA6YEZE4I6FALQRCGVCM2CYLSYQ" width="250" align="left" style="margin-right: 20px;">
 <a href="https://github.com/pmusachio/fraud-detection-financial-transactions" target="_blank">Fraud Detection in Financial Transactions</a>
 <br>
