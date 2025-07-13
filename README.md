@@ -18,6 +18,12 @@ Development of a predictive model to identify potential fraudulent transactions,
 
 ## Financial Analysis
 
+<img src="" width="250" align="left" style="margin-right: 20px;">
+<a href="https://github.com/pmusachio/weekly-report" target="_blank">Weekly Report</a>
+<br>
+
+<br><br><br><br><br><br><br><br><br><br>
+
 <img src="https://raw.githubusercontent.com/pmusachio/sharpe-sortino-bitcoin/refs/heads/main/img/traces.png" width="250" align="left" style="margin-right: 20px;">
 <a href="https://github.com/pmusachio/sharpe-sortino-bitcoin" target="_blank">Sharpe vs Sortino W/ Bitcoin</a>
 <br>
