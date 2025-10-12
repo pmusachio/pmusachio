@@ -1,2 +1,1 @@
-# PAULO MUSACHIO
-Transforming Data into Profit!
+# Transforming Data into Profit!
